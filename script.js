@@ -30,7 +30,7 @@ const userMessage = [
   ["you are funny"],
   ["i dont know"],
   ["boring"],
-  ["im tired"],["help"],["suggest me some course"],["tell me about this website"]
+  ["im tired"],["help"],["suggest me some course"],["tell me about this website"],["who are the owners of this website"]
 ];
 const botReply = [
   ["Hello!", "Hi!", "Hey!", "Hi there!"],
@@ -58,7 +58,6 @@ const botReply = [
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV", "Chat with me."],
   ["What about?", "Once upon a time..."],
-  ["Tell me a story", "Tell me a joke", "Tell me about yourself"],
   ["You're welcome"],
   ["Briyani", "Burger", "Sushi", "Pizza"],
   ["Dude!"],
@@ -67,7 +66,8 @@ const botReply = [
   ["Glad to hear it"],
   ["Say something interesting"],
   ["Sorry for that. Let's chat!"],
-  ["Take some rest!"],["Tell me how can I help you?"],["visit our course reccomendation site it will be helpful to you, the link is : https://coursegit-obz96rwtmhhzmpu3naxkd3.streamlit.app/"],["Knowledge Treasure the E-Learning Website Development project aims to create a user-centric and accessible online platform for education, offering a wide range of courses while prioritizing engagement, content organization, scalability, data privacy,and analytics. "]
+  ["Take some rest!"],["Tell me how can I help you?"],["visit our course reccomendation site it will be helpful to you, the link is : https://coursegit-obz96rwtmhhzmpu3naxkd3.streamlit.app/"],["Knowledge Treasure the E-Learning Website Development project aims to create a user-centric and accessible online platform for education, offering a wide range of courses while prioritizing engagement, content organization, scalability, data privacy,and analytics. "],
+  ["Saheli,Anindita,Debjit and Souvik"]
 ];
 
 const alternative = [
